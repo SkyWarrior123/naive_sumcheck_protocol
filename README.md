@@ -16,14 +16,15 @@ Inspired by interactive proof systems and zero-knowledge techniques used in zk-S
 ---
 
 ## 🧪 Example Output
-
-The prover claims the total sum is: 44
-✅ Round 0: f(0)=4, f(1)=40, r=0 → f(r)=4 (✓)
-✅ Round 1: f(0)=-4, f(1)=8, r=1 → f(r)=8 (✓)
-✅ Round 2: f(0)=4, f(1)=4, r=0 → f(r)=4 (✓)
-✅ Round 3: f(0)=3, f(1)=1, r=1 → f(r)=1 (✓)
-✅ Round 4: f(0)=0, f(1)=1, r=0 → f(r)=0 (✓)
+```
+The prover claims the total sum is: 44  
+✅ Round 0: f(0)=4, f(1)=40, r=0 → f(r)=4 (✓)  
+✅ Round 1: f(0)=-4, f(1)=8, r=1 → f(r)=8 (✓)  
+✅ Round 2: f(0)=4, f(1)=4, r=0 → f(r)=4 (✓)  
+✅ Round 3: f(0)=3, f(1)=1, r=1 → f(r)=1 (✓)  
+✅ Round 4: f(0)=0, f(1)=1, r=0 → f(r)=0 (✓)  
 ✅ Verifier: SumCheck passed!
+```
 
 
 ---
